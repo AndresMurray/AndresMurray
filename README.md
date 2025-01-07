@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Andres Murray 👋
 
-<!--
-**AndresMurray/AndresMurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Desarrollador en formación ✨
 
-Here are some ideas to get you started:
+- 🎓 Estudiante de Analista Programador Universitario en la UNLP.
+- 🚀 Interesado en seguir aprendiendo, formándome y enfrentando nuevos desafíos.
+- 📂 Aquí voy a subir algunos de mis trabajos realizados para las materias de la facultad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contacto:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/andresmurray/)
+[![Email](https://img.shields.io/badge/Email-Correo-red?logo=gmail)](andymurray99@hotmail.com)
+
+![Imagen o GIF](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
