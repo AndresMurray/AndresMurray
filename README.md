@@ -2,7 +2,7 @@
 
 ✨ Desarrollador en formación ✨
 
-- 🎓 Estudiante de Analista Programador Universitario en la UNLP.
+- 🎓 Estudiante de tercer año de Analista Programador Universitario en la UNLP.
 - 🚀 Interesado en seguir aprendiendo, formándome y enfrentando nuevos desafíos.
 - 📂 Aquí voy a subir algunos de mis trabajos realizados para las materias de la facultad.
 
