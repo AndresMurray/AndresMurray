@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300">
 </p>
 
-### 🎓 Analista Programador Universitario (Graduado)
+### 🎓 Analista Programador Universitario 
 **Actualmente continuando mi formación profesional en la Licenciatura en Sistemas - UNLP**
 
 ¡Bienvenido a mi perfil! Cuento con el título de **Analista Programador Universitario** y sigo apostando al aprendizaje continuo, enfrentando nuevos desafíos técnicos y profundizando mis conocimientos académicos.
