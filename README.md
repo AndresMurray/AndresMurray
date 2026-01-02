@@ -16,7 +16,35 @@
 - 📚 **Licenciatura en Sistemas** | En curso - Universidad Nacional de La Plata.
 - 📂 En este espacio comparto proyectos desarrollados durante mi carrera, ejercicios de algoritmos y desafíos de cursos externos.
 
+---
 
+### 💼 Proyectos Destacados
+
+<div align="center">
+  <a href="https://github.com/AndresMurray/Alquilando">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=Alquilando&theme=radical" alt="Alquilando" />
+  </a>
+  <a href="https://github.com/TTPS-Grupo-1/backend-Clinica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTPS-Grupo-1&repo=backend-Clinica&theme=radical" alt="Backend Clínica" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/TTPS-Grupo-1/frontend-Clinica">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTPS-Grupo-1&repo=frontend-Clinica&theme=radical" alt="Frontend Clínica" />
+  </a>
+  <a href="https://github.com/AndresMurray/SeminarioPython">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=SeminarioPython&theme=radical" alt="Seminario Python" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AndresMurray/Programacion-Concurrente">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=Programacion-Concurrente&theme=radical" alt="Programación Concurrente" />
+  </a>
+</div>
+
+---
 
 ### 🤝 Conectemos
 
@@ -24,4 +52,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amurrayroppel@gmail.com)
 
 ---
-
