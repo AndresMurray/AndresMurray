@@ -62,6 +62,27 @@
 </div>
 </td>
 <td width="50%">
+<h3 align="center">💎 Objetos 2</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/Objetos-2" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-9B59B6?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Resolución de ejercicios de la materia OO2 </p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎯 Objetos 1</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/Objetos1" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-3498DB?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Resolución de ejercicios de la materia OO1</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💻 TP Final C# .NET</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/TPFinal_CSharp_NET_SQL" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-E74C3C?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Trabajo final integrador del curso con C#, .NET y SQL</p>
+</div>
 </td>
 </tr>
 </table>
