@@ -20,29 +20,51 @@
 
 ### 💼 Proyectos Destacados
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏠 Alquilando</h3>
 <div align="center">
-  <a href="https://github.com/AndresMurray/Alquilando">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=Alquilando&theme=radical" alt="Alquilando" />
-  </a>
-  <a href="https://github.com/TTPS-Grupo-1/backend-Clinica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTPS-Grupo-1&repo=backend-Clinica&theme=radical" alt="Backend Clínica" />
-  </a>
+<a href="https://github.com/AndresMurray/Alquilando" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-FF6B6B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Sistema de gestión de alquileres</p>
 </div>
-
+</td>
+<td width="50%">
+<h3 align="center">🏥 Backend Clínica</h3>
 <div align="center">
-  <a href="https://github.com/TTPS-Grupo-1/frontend-Clinica">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TTPS-Grupo-1&repo=frontend-Clinica&theme=radical" alt="Frontend Clínica" />
-  </a>
-  <a href="https://github.com/AndresMurray/SeminarioPython">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=SeminarioPython&theme=radical" alt="Seminario Python" />
-  </a>
+<a href="https://github.com/TTPS-Grupo-1/backend-Clinica" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-4ECDC4?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>API REST para sistema de gestión clínica</p>
 </div>
-
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🏥 Frontend Clínica</h3>
 <div align="center">
-  <a href="https://github.com/AndresMurray/Programacion-Concurrente">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AndresMurray&repo=Programacion-Concurrente&theme=radical" alt="Programación Concurrente" />
-  </a>
+<a href="https://github.com/TTPS-Grupo-1/frontend-Clinica" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-95E1D3?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Interfaz web para sistema de gestión clínica</p>
 </div>
+</td>
+<td width="50%">
+<h3 align="center">🐍 Seminario Python</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/SeminarioPython" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-FFB6C1?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Proyectos del seminario de lenguajes Python</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">⚡ Programación Concurrente</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/Programacion-Concurrente" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-F38181?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p>Ejercicios y ejemplos de programación concurrente</p>
+</div>
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
