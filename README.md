@@ -1,8 +1,17 @@
-# Hola, soy Andrés Murray 👋
+# Hola, soy Andrés Murray Roppel 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300">
 </p>
+
+<p align="center">
+  <a href="#proyecto-destacado"><b>⭐ OdonLoop</b></a> &nbsp;•&nbsp;
+  <a href="#proyectos-profesionales"><b>💼 Proyectos Profesionales</b></a> &nbsp;•&nbsp;
+  <a href="#investigacion-rag"><b>🔬 Investigación & RAG</b></a> &nbsp;•&nbsp;
+  <a href="#materias-y-academicos"><b>📚 Materias y Academia</b></a> &nbsp;•&nbsp;
+  <a href="#contacto"><b>🤝 Conectemos</b></a>
+</p>
+
 
 ### 🎓 Analista Programador Universitario
 **Actualmente continuando mi formación profesional en la Licenciatura en Sistemas - UNLP**
@@ -18,6 +27,7 @@
 
 ---
 
+<a id="proyecto-destacado"></a>
 ### ⭐ Proyecto Personal en Producción
 
 <table>
@@ -35,10 +45,11 @@
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 <br/><br/>
+<details>
+<summary><b>📋 Ver funcionalidades y detalles</b></summary>
+<br/>
 <p align="left">
 Plataforma web integral para la gestión de consultorios odontológicos, actualmente <b>en uso por profesionales reales</b>.
-<br/><br/>
-<b>Funcionalidades principales:</b>
 </p>
 <ul align="left">
 <li>🦷 <b>Odontograma digital interactivo</b> — sistema de 52 piezas (32 permanentes + 20 temporales) con marcado por caras, estados clínicos (caries, filtración, realizado, ausente, etc.) y marcas entre piezas (puentes fijos, prótesis removibles, prótesis completas)</li>
@@ -49,6 +60,7 @@ Plataforma web integral para la gestión de consultorios odontológicos, actualm
 <li>🔐 <b>Autenticación JWT</b> — con refresh automático silencioso, verificación por email y roles diferenciados (odontólogo/paciente/admin)</li>
 </ul>
 <p align="left"><i>Software propietario con licencia Commons Clause — código visible, uso comercial no autorizado.</i></p>
+</details>
 </div>
 </td>
 </tr>
@@ -56,6 +68,7 @@ Plataforma web integral para la gestión de consultorios odontológicos, actualm
 
 ---
 
+<a id="proyectos-profesionales"></a>
 ### 💼 Proyectos Profesionales
 
 <!-- Centra -->
@@ -76,10 +89,11 @@ Plataforma web integral para la gestión de consultorios odontológicos, actualm
 <img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <br/><br/>
+<details>
+<summary><b>📋 Ver funcionalidades y aportes</b></summary>
+<br/>
 <p align="left">
 Sistema web para un centro de kinesiología que permite la gestión completa de cursos y alumnos, con panel administrativo y landing page editable orientada a clientes.
-<br/><br/>
-<b>Funcionalidades principales y aportes:</b>
 </p>
 <ul align="left">
 <li>🛠️ <b>Módulo de Cursos:</b> Implementación de altas, edición, habilitación/inhabilitación y gestión de clases por curso.</li>
@@ -89,6 +103,7 @@ Sistema web para un centro de kinesiología que permite la gestión completa de 
 <li>☁️ <b>Almacenamiento Multimedia:</b> Almacenamiento de imágenes y PDFs del curso en Cloudinary y videos mediante enlaces externos.</li>
 <li>💳 <b>Integración de Pagos:</b> Soporte para links de pago de Mercado Pago asociados a cada curso, facilitando la compra.</li>
 </ul>
+</details>
 </div>
 </td>
 </tr>
@@ -110,16 +125,18 @@ Sistema web para un centro de kinesiología que permite la gestión completa de 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 <br/><br/>
+<details>
+<summary><b>📋 Ver aportes realizados</b></summary>
+<br/>
 <p align="left">
 Adaptación y personalización de la plataforma Centra para un nuevo cliente del sector bienestar.
-<br/><br/>
-<b>Aportes realizados:</b>
 </p>
 <ul align="left">
 <li>🎨 <b>Personalización Visual:</b> Adaptación de la identidad visual de la plataforma y ajuste de flujos según requerimientos específicos del cliente.</li>
 <li>🚀 <b>Despliegue y DevOps:</b> Gestión del deploy completo en producción y configuración de entornos.</li>
 <li>✉️ <b>Notificaciones del Dominio:</b> Configuración y adaptación de notificaciones automáticas para el dominio propio.</li>
 </ul>
+</details>
 </div>
 </td>
 </tr>
@@ -127,6 +144,7 @@ Adaptación y personalización de la plataforma Centra para un nuevo cliente del
 
 ---
 
+<a id="investigacion-rag"></a>
 ### 🔬 Investigación (LIFIA - UNLP)
 
 <table>
@@ -142,10 +160,11 @@ Adaptación y personalización de la plataforma Centra para un nuevo cliente del
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FC60A8?style=flat-square&logo=data&logoColor=white" />
 <br/><br/>
+<details>
+<summary><b>📋 Ver focos de investigación y desarrollo</b></summary>
+<br/>
 <p align="left">
 Investigación y desarrollo de un <b>Sistema de Asistencia a Emergencias basado en RAG (Retrieval-Augmented Generation)</b>. Proyecto enmarcado dentro de la línea de investigación del LIFIA – UNLP: <i>"Construcción de RAG — Aspectos de Ingeniería de Software en proyectos con IA Generativa"</i>.
-<br/><br/>
-<b>Focos de investigación y desarrollo:</b>
 </p>
 <ul align="left">
 <li>📚 <b>Metodología de Ingeniería de Software:</b> Estudio del proceso de desarrollo y ciclo de vida de sistemas RAG aplicando criterios rigurosos de calidad de software.</li>
@@ -153,6 +172,7 @@ Investigación y desarrollo de un <b>Sistema de Asistencia a Emergencias basado 
 <li>🧪 <b>Testing y Validación:</b> Definición de estrategias de validación y testeo de respuestas generadas para mitigar alucinaciones en escenarios críticos.</li>
 <li>👥 <b>Dirección del Proyecto:</b> Dirigido por Joaquín Bogado, Alejandra Garrido y Claudia Pons.</li>
 </ul>
+</details>
 </div>
 </td>
 </tr>
@@ -160,6 +180,7 @@ Investigación y desarrollo de un <b>Sistema de Asistencia a Emergencias basado 
 
 ---
 
+<a id="materias-y-academicos"></a>
 ### 💼 Proyectos Académicos y Repositorios de Materias
 
 <table>
@@ -242,6 +263,7 @@ Investigación y desarrollo de un <b>Sistema de Asistencia a Emergencias basado 
 
 ---
 
+<a id="contacto"></a>
 ### 🤝 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresmurray/)
