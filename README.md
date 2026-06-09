@@ -56,7 +56,111 @@ Plataforma web integral para la gestión de consultorios odontológicos, actualm
 
 ---
 
-### 💼 Proyectos Académicos
+### 💼 Proyectos Profesionales
+
+<!-- Centra -->
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">💼 Centra — Plataforma de Gestión de Cursos</h3>
+<div align="center">
+<a href="https://centracursos.com" target="_blank"><img src="https://img.shields.io/badge/🌐_VER_EN_PRODUCCIÓN-centracursos.com-2563EB?style=for-the-badge" /></a>
+<a href="https://github.com/AndresMurray/centra-kinesiologia" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Brevo-008AEC?style=flat-square&logo=brevo&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<br/><br/>
+<p align="left">
+Sistema web para un centro de kinesiología que permite la gestión completa de cursos y alumnos, con panel administrativo y landing page editable orientada a clientes.
+<br/><br/>
+<b>Funcionalidades principales y aportes:</b>
+</p>
+<ul align="left">
+<li>🛠️ <b>Módulo de Cursos:</b> Implementación de altas, edición, habilitación/inhabilitación y gestión de clases por curso.</li>
+<li>👥 <b>Gestión de Usuarios:</b> Diseño del flujo completo de registro y administración de alumnos con control de acceso por roles.</li>
+<li>✉️ <b>Notificaciones Automáticas:</b> Integración de correos automáticos (inscripciones, recordatorios) mediante Brevo.</li>
+<li>📊 <b>Panel de Administración:</b> Desarrollo de un panel administrativo completo y home público editable (landing page) gestionado por la administradora.</li>
+<li>☁️ <b>Almacenamiento Multimedia:</b> Almacenamiento de imágenes y PDFs del curso en Cloudinary y videos mediante enlaces externos.</li>
+<li>💳 <b>Integración de Pagos:</b> Soporte para links de pago de Mercado Pago asociados a cada curso, facilitando la compra.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- BioYoga -->
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">🧘 BioYoga Consciente — Plataforma de Bienestar</h3>
+<div align="center">
+<a href="https://bioyogaconsciente.com" target="_blank"><img src="https://img.shields.io/badge/🌐_VER_EN_PRODUCCIÓN-bioyogaconsciente.com-8E44AD?style=for-the-badge" /></a>
+<a href="https://github.com/AndresMurray/bioyoga-cursos" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<br/><br/>
+<p align="left">
+Adaptación y personalización de la plataforma Centra para un nuevo cliente del sector bienestar.
+<br/><br/>
+<b>Aportes realizados:</b>
+</p>
+<ul align="left">
+<li>🎨 <b>Personalización Visual:</b> Adaptación de la identidad visual de la plataforma y ajuste de flujos según requerimientos específicos del cliente.</li>
+<li>🚀 <b>Despliegue y DevOps:</b> Gestión del deploy completo en producción y configuración de entornos.</li>
+<li>✉️ <b>Notificaciones del Dominio:</b> Configuración y adaptación de notificaciones automáticas para el dominio propio.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### 🔬 Investigación (LIFIA - UNLP)
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">🚑 RAG: Asistencia a Emergencias</h3>
+<div align="center">
+<a href="https://github.com/AndresMurray/asistente_de_emergencias" target="_blank"><img src="https://img.shields.io/badge/VER_CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FC60A8?style=flat-square&logo=data&logoColor=white" />
+<br/><br/>
+<p align="left">
+Investigación y desarrollo de un <b>Sistema de Asistencia a Emergencias basado en RAG (Retrieval-Augmented Generation)</b>. Proyecto enmarcado dentro de la línea de investigación del LIFIA – UNLP: <i>"Construcción de RAG — Aspectos de Ingeniería de Software en proyectos con IA Generativa"</i>.
+<br/><br/>
+<b>Focos de investigación y desarrollo:</b>
+</p>
+<ul align="left">
+<li>📚 <b>Metodología de Ingeniería de Software:</b> Estudio del proceso de desarrollo y ciclo de vida de sistemas RAG aplicando criterios rigurosos de calidad de software.</li>
+<li>🔍 <b>Procesamiento y Recuperación:</b> Diseño de estrategias de chunking, vectorización y retrieval optimizados para la consulta rápida de protocolos de emergencias.</li>
+<li>🧪 <b>Testing y Validación:</b> Definición de estrategias de validación y testeo de respuestas generadas para mitigar alucinaciones en escenarios críticos.</li>
+<li>👥 <b>Dirección del Proyecto:</b> Dirigido por Joaquín Bogado, Alejandra Garrido y Claudia Pons.</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Proyectos Académicos y Repositorios de Materias
 
 <table>
 <tr>
